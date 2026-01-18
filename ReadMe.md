@@ -114,15 +114,3 @@ Results are saved in `data/result/<config>/<dataset_id>/<run_name>/`:
 *   `GreS.png`: Visualization of the spatial domains.
 *   `checkpoints/`: Model checkpoints.
 
-## 7. Citation
-
-If you use GreS in your work, please kindly cite our paper:
-
-```bibtex
-@article{YourCitationHere,
-  title={GreS: Graph-Regulated Semantic Learning for Spatial Domain Identification},
-  author={Your Name and Co-authors},
-  journal={Bioinformatics / ISMB},
-  year={2024}
-}
-```
